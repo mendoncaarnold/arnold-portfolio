@@ -1,0 +1,63 @@
+:root {
+    --bg: #05070a;
+    --surface: #0b0f15;
+    --surface-2: #101621;
+    --surface-3: #151c28;
+
+    --text: #f1f3f7;
+    --muted: #9aa4b5;
+    --dim: #667184;
+
+    --line: rgba(148, 163, 184, 0.15);
+    --line-strong: rgba(148, 163, 184, 0.24);
+
+    --blue: #70a7ff;
+    --blue-soft: rgba(112, 167, 255, 0.12);
+
+    --green: #6ee7b7;
+    --green-soft: rgba(110, 231, 183, 0.1);
+
+    --max-width: 1440px;
+}
+
+/* --------------------------------------------------
+   GLOBAL
+-------------------------------------------------- */
+
+.app {
+    width: 100%;
+    min-height: 100vh;
+    background:
+        radial-gradient(
+            circle at 80% 8%,
+            rgba(64, 91, 132, 0.12),
+            transparent 28%
+        ),
+        var(--bg);
+}
+
+.page-shell {
+    width: min(
+        calc(100% - 48px),
+        var(--max-width)
+    );
+    margin: 0 auto;
+}
+
+::selection {
+    background: rgba(112, 167, 255, 0.25);
+    color: #fff;
+}
+
+/* --------------------------------------------------
+   NAVIGATION
+-------------------------------------------------- */
+
+.site-nav {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+
+    width: 100%;
+
+   

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "shopmate",
+    "name": "ShopMate",
+    "description": "Responsive e-commerce application with product browsing, cart management and checkout.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "categories": [
+      "Web Development"
+    ],
+    "githubUrl": "https://github.com/mendoncaarnold/shopmate",
+    "liveUrl": "https://shopmate-rho.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": "expense-tracker",
+    "name": "Expense Tracker",
+    "description": "Web application for tracking and managing personal expenses.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "categories": [
+      "Web Development"
+    ],
+    "githubUrl": "https://github.com/mendoncaarnold/expense-track-sms",
+    "liveUrl": "https://expense-track-sms.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": "todo",
+    "name": "Todo List",
+    "description": "Task management application with local storage, search, filtering, due dates and undo functionality.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "LocalStorage"
+    ],
+    "categories": [
+      "Web Development"
+    ],
+    "githubUrl": "https://github.com/mendoncaarnold/todo-hobby-project",
+    "liveUrl": "",
+    "featured": false
+  },
+  {
+    "id": "rock-paper-scissors",
+    "name": "Rock Paper Scissors",
+    "description": "Interactive game with score tracking and browser-based gameplay.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "categories": [
+      "Web Development",
+      "Game"
+    ],
+    "githubUrl": "https://github.com/mendoncaarnold/rock-paper-scissor",
+    "liveUrl": "",
+    "featured": false
+  },
+  {
+    "id": "grid",
+    "name": "Grid",
+    "description": "Grid-based project demonstrating frontend development and interactive UI concepts.",
+    "technologies": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "categories": [
+      "Web Development"
+    ],
+    "githubUrl": "https://github.com/mendoncaarnold/grid",
+    "liveUrl": "",
+    "featured": false
+  }
+]

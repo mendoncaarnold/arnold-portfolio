@@ -1,0 +1,47 @@
+[
+  {
+    "id": "omni-on-software-developer-apprentice",
+    "role": "Software Developer Apprentice",
+    "company": "OMNiON Premedia Pvt Ltd",
+    "location": "",
+    "startDate": "03/2026",
+    "endDate": "Present",
+    "current": true,
+    "description": "Software development apprenticeship focused on building practical software, learning development workflows, and expanding technical expertise.",
+    "highlights": [
+      "Working in a software development environment",
+      "Building and improving practical software solutions",
+      "Developing technical skills across software development and related technologies"
+    ]
+  },
+  {
+    "id": "manipal-printing",
+    "role": "Printing Department",
+    "company": "Manipal Technologies",
+    "location": "Manipal, Udupi, Karnataka",
+    "startDate": "12/2025",
+    "endDate": "02/2026",
+    "current": false,
+    "description": "Worked in the printing department at Manipal Technologies.",
+    "highlights": [
+      "Worked in a professional production environment",
+      "Gained practical workplace experience and exposure to operational workflows"
+    ]
+  },
+  {
+    "id": "echopeak-data-processing",
+    "role": "Data Processing Executive",
+    "company": "EchoPeak Solutions",
+    "location": "Manipal, Udupi, Karnataka",
+    "startDate": "08/2025",
+    "endDate": "12/2025",
+    "current": false,
+    "description": "Handled data processing and verification tasks with a focus on accuracy and data integrity.",
+    "highlights": [
+      "Contributed to a 15% reduction in data entry errors within the first month",
+      "Cross-referenced source documents against system inputs to improve data integrity",
+      "Handled peak loads of up to 200 entries per day",
+      "Maintained zero backlog during month-end and project deadlines"
+    ]
+  }
+]

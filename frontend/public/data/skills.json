@@ -1,0 +1,54 @@
+{
+  "programming": [
+    "C++",
+    "Python",
+    "JavaScript",
+    "Java",
+    "C#",
+    "PHP"
+  ],
+  "webDevelopment": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Django",
+    ".NET Core"
+  ],
+  "databases": [
+    "SQL",
+    "PostgreSQL",
+    "MongoDB",
+    "Firebase",
+    "Firestore",
+    "Cassandra"
+  ],
+  "cppAndSystems": [
+    "C++17",
+    "CMake",
+    "WebAssembly",
+    "Emscripten"
+  ],
+  "cloudAndDevOps": [
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Terraform",
+    "Ansible"
+  ],
+  "networking": [
+    "TCP/IP",
+    "HTTP/HTTPS",
+    "DNS",
+    "Firewalls"
+  ],
+  "developmentTools": [
+    "Git",
+    "GitHub",
+    "GitLab",
+    "VS Code"
+  ],
+  "ai": [
+    "AI Basics",
+    "Generative AI Basics"
+  ]
+}
